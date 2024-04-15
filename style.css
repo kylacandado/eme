@@ -1,0 +1,28 @@
+.jumbotron {
+    background-color: rgb(166, 167, 219);
+    background-size: cover;
+    color: rgb(21, 112, 40);
+    text-align: center;
+  }
+
+  .container { max-width: 55%; height: auto; 
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+.images{
+     text-align: center;
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+}
